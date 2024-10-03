@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "epic-spinners": "^2.0.0",
+    "pdfjs-dist": "^4.6.82",
     "vue": "^3.4.15"
   },
   "devDependencies": {
