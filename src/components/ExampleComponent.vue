@@ -89,14 +89,15 @@ p {
   font-size: 16px;
   cursor: pointer;
   background-color: #111111; /* Light gray background */
-  color: #efefef; /* Darker text */
+  color: #878787; /* Darker text */
   /* border: 1px solid #ccc; */
   border-radius: 5px;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .open-button:hover {
-  background-color: #e0e0e0; /* Darker gray on hover */
-  color: #000;
+  background-color: #595959; /* Darker gray on hover */
+  color: #ffffff;
+  border: 1px solid #595959;
 }
 </style>
