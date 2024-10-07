@@ -2,7 +2,7 @@
     <div class="example-list">
       <!-- Iterate over the list of PDFs and render ExampleComponent for each item -->
       <div v-for="(item, index) in pdfList" :key="index" class="example-item">
-        <ExampleComponent :pdfUrl="item.url" :description="item.description" :exploreUrl="item.exploreUrl" />
+        <ExampleComponent :pdfUrl="item.pdfUrl" :description="item.description" :exploreUrl="item.exploreUrl" />
       </div>
     </div>
   </template>

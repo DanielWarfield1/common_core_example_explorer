@@ -8,7 +8,7 @@
         :readonly="isSearching || isLoading"
         @keydown.enter.prevent="handleEnterKey"
         @keydown.shift.enter.exact="insertNewLine"
-        placeholder="Type your message here"
+        placeholder="Show me practice problems about 1s, 10s, and 100s."
         rows="1"
         ref="chatBox"
         @input="onInput"
@@ -148,7 +148,7 @@ export default {
 }
 
 .chat-bar textarea {
-  width: 400px;
+  width: 600px;
   padding: 12px 8px;
   font-size: 16px;
   border: none;
