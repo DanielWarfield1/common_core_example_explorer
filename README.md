@@ -2,7 +2,7 @@
 This is project is the front end interface for exploring the common core curriculum using RAG powered search.
 
 the actual API in this example is simulated with hard-coded values, which are derived from the output of a jupyter notebook.
-https://colab.research.google.com/drive/1c5lODY9Zhx9Kf85N76HpBGG1KMBcaQnm?usp=sharing
+https://colab.research.google.com/drive/1c5lODY9Zhx9Kf85N76HpBGG1KMBcaQnm?usp=sharing (included in this repo)
 
 front end can be found on code sandbox
 https://codesandbox.io/p/github/DanielWarfield1/common_core_example_explorer/draft/interesting-bohr
