@@ -1,3 +1,9 @@
+# Common Core Example Explorer
+This is project is the front end interface for exploring the common core curriculum using RAG powered search.
+
+the actual API in this example is simulated with hard-coded values, which are derived from the output of a jupyter notebook.
+https://colab.research.google.com/drive/1c5lODY9Zhx9Kf85N76HpBGG1KMBcaQnm?usp=sharing
+
 # Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
